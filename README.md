@@ -1,1 +1,1 @@
-# .github
+Trajectfi is an innovative NFT collateralization and lending platform being developed on the StarkNet ecosystem. It facilitates peer-to-peer NFT-backed lending, where users can leverage specific, approved NFTs as collateral in exchange for borrowing designated tokens. The platform operates with a carefully curated selection of accepted NFTs for collateralization and a predefined set of tokens available for borrowing, ensuring a streamlined and secure lending process within the decentralized finance (DeFi) space.
